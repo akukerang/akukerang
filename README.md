@@ -11,7 +11,7 @@
 Chrome extension that converts the Spotify titles of Japanese songs into it's romanized version.
 - [spToBuff](https://github.com/akukerang/sptobuff) <br/>
 Command line app that compares CS:GO skin prices from Skinport to Buff.163.
-- [Saberfy](https://github.com/maximusmith529/Saberfy) <br/>
+- [Saberfy](https://github.com/akukerang/Saberfy) <br/>
 Command line app that automatically makes a Beatsaber beatmap from a Spotify link.
 - [GassedUp](https://github.com/akukerang/GassedUp) <br/>
 Flask webpage that returns list of cheapest gas station in an area. Takes into account distance and car's fuel economy.
