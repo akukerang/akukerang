@@ -1,6 +1,6 @@
 ## Hey I'm Gabe👋
 - ✏️ 2nd year CS student @ FAU
-- 🐍 Python / Java / C++ / Javascript / HTML
+- 🐍 Python / Java / Javascript / HTML
 - ⌨️ [Custom Keyboards](https://www.youtube.com/channel/UCVN_abNTG75kVE_T3sbCDnw) / Computers / Manga 
 - 📫 Reach me at
   - [Linkedin](https://www.linkedin.com/in/gabriel-suoth/)
