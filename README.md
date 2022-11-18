@@ -7,6 +7,8 @@
   - gabrielsuoth@gmail.com
 
 ## 🗄️ My Projects
+- [studySurfer](https://github.com/akukerang/StudySurfer) <br/>
+Study tool that creates video in a Reddit stories TikTok style, which also captions and reads textbook pages.
 - [spotifyRomaji](https://github.com/akukerang/spotifyRomaji) <br/>
 Chrome extension that converts the Spotify titles of Japanese songs into it's romanized version.
 - [spToBuff](https://github.com/akukerang/sptobuff) <br/>
