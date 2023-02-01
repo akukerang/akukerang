@@ -1,10 +1,10 @@
 ## Hey I'm Gabe👋
-- ✏️ 2nd year CS student @ FAU
+- ✏️ CS Senior @ FAU
 - 🐍 Python / Java 
   - Learning: Rust / C++ / JavaScript
 - ⌨️ [Custom Keyboards](https://www.youtube.com/channel/UCVN_abNTG75kVE_T3sbCDnw) / Programming / Manga 
 - 📫 Reach me at
-  - [Website](https://akukerang.github.io/)
+  - [Website](https://akukerang.com/)
   - [Linkedin](https://www.linkedin.com/in/gabriel-suoth/)
   - gabrielsuoth@gmail.com
 
