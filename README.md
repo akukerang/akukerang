@@ -1,7 +1,7 @@
 ## Hey I'm Gabe👋
 - ✏️ CS Senior @ FAU
 - 🐍 Python / Java 
-  - Learning: Rust / C++ / JavaScript
+  - Learning: Rust / C++ 
 - ⌨️ [Custom Keyboards](https://www.youtube.com/channel/UCVN_abNTG75kVE_T3sbCDnw) / Programming / Manga 
 - 📫 Reach me at
   - [Website](https://akukerang.com/)
@@ -17,7 +17,7 @@ Keyword recommendation system for vtubers, using the top 100 keywords from their
 Tool used to compare CS:GO skin prices from Skinport and Buff.163.
 - [Saberfy](https://github.com/akukerang/Saberfy) <br/>
 CLI app that converts a spotify link into an Beatsaber beatmap, using Spotify track analysis.
-- [GassedUp](https://github.com/akukerang/GassedUp) <br/>
-Tool that returns the cheapest gas stations within an area. Taking into account distance and fuel economy.
+- [Real Worth](https://github.com/akukerang/real-worth) <br/>
+Salary sharing mobile app to promote wage transparency, and reduce income equality.
 - [keypad-osu](https://github.com/akukerang/keypad-osu) <br />
 PCB schematic for an osu! keypad.
