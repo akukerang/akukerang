@@ -3,7 +3,7 @@
 - 🐍 Python / JavaScript / Java
 - ⌨️ [Custom Keyboards](https://www.youtube.com/channel/UCVN_abNTG75kVE_T3sbCDnw)
 - 📫 Reach me at
-  - [Website](https://suoth.netlify.app/)
+  - [Website](https://suoth.vercel.app/)
   - [Linkedin](https://www.linkedin.com/in/gabriel-suoth/)
   - gabrielsuoth@gmail.com
 
