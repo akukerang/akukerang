@@ -1,6 +1,6 @@
 ## Hey I'm Gabe👋
-- ✏️ CS Senior @ FAU
-- 🐍 Python / JavaScript / Java
+- ✏️ FAU Computer Science
+- 🐍 Python / Go / JavaScript / Java
 - 📫 Reach me at
   - [Website](https://suoth.vercel.app/)
   - [Linkedin](https://www.linkedin.com/in/gabriel-suoth/)
